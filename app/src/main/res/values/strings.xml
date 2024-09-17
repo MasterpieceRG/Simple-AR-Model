@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="check_ar_model_text">Check AR Model</string>
+</resources>
